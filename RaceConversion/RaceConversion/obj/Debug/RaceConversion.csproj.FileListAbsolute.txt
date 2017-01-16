@@ -1,0 +1,32 @@
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\RaceConversion.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\RaceConversion.pdb
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\IMS.Core.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\IMS.FileStorage.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\IMS.Security.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\IMS.Updater.Model.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\IMS.Updater.Tools.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\MySql.Data.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\Tools.Database.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\xunit.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\IMS.Updater.Model.pdb
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\IMS.Updater.Tools.pdb
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\bin\Debug\Tools.Database.pdb
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\obj\Debug\RaceConversion.csprojResolveAssemblyReference.cache
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\obj\Debug\RaceConversion.dll
+c:\users\ion3280\documents\visual studio 2013\Projects\RaceConversion\RaceConversion\obj\Debug\RaceConversion.pdb
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\RaceConversion.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\RaceConversion.pdb
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\IMS.Core.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\IMS.FileStorage.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\IMS.Security.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\IMS.Updater.Model.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\IMS.Updater.Tools.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\MySql.Data.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\Tools.Database.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\xunit.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\IMS.Updater.Model.pdb
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\IMS.Updater.Tools.pdb
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\bin\Debug\Tools.Database.pdb
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\obj\Debug\RaceConversion.csprojResolveAssemblyReference.cache
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\obj\Debug\RaceConversion.dll
+C:\SVN\tools\Conversions\7700\RaceConversion\RaceConversion\obj\Debug\RaceConversion.pdb
